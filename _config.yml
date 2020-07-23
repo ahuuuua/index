@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github_1.com:ahuuuua/ahua.git
+  repo: git@github_1.com:ahuuuua/index.git
   branch: gh-pages
